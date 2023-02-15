@@ -4,6 +4,8 @@
 
 ### Features
 
+- [#6908](https://github.com/blockscout/blockscout/pull/6908) - Allow disable API rate limit
+
 ### Fixes
 
 - [#6891](https://github.com/blockscout/blockscout/pull/6891) - Fix read contract for geth
